@@ -1,0 +1,23 @@
+---
+layout: default
+img: gift.jpg
+category: Services
+title: Regalo
+description: |
+---
+
+Come dicevamo abbiamo organizzato il matrimonio più semplice del mondo. Talmente semplice che non abbiamo neanche pensato a organizzare una lista nozze o ad un bel viaggio che potesse indirizzarti nel caso in cui tu volessi farci un regalo.
+
+Anche se non concretizzata abbiamo qualche idea di come festeggiare le nostre nozze e per noi non c'è niente di meglio di un bel viaggio.
+
+In mente abbiamo:
+ble ble ble
+
+Quindi, nel caso in cui tu volessi aiutarci a raggiungere queste mete, puoi utilizzare l'iban qua di seguito del nostro conto corrente
+
+<p align="center">
+
+<b> IT39Q0347501605CC0011188408 </b> <br>
+<b> Intestato a Matteo Gaito e Marta Cioni </b> <br>
+
+</p>

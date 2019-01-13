@@ -2,14 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://chugly.github.io/wedding/
-title: Chelsey and Gully Wedding
-email: chuglywed@gmail.com
-author: Chelsey Contillo and Michael Gully-Santiago
-description: > # "Homepage for Chelsey Contillo and Michael Gully-Santiago
- wedding in Austin Texas on October 28, 2017.
-copyright: 'Copyright &copy; 2017 Chelsey and Gully. All Rights Reserved.'
-credits: 'Credits: forked from Shane Weng.'
+url: https://matteo.gaito/wedding/
+title: Matrimonio Marta e Matteo
+email: mem@gaito.net
+author: Matteo Gaito
+description: > # "Homepage del matrimonio di Marta e Matteo. "
+copyright: 'Copyright &copy; 2019 Marta e Matteo. All Rights Reserved.'
+credits: 'Credits: Wikipedia and Chugky'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -23,22 +22,3 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 
-social:
-  - title: github
-    text: Blog
-    url: http://chugly.github.io/
-  - title: instagram
-    text: Photos
-    url: https://www.instagram.com/explore/tags/chuglywed/
-  - title: shower
-    text: Airbnb
-    url: https://www.airbnb.com/wishlists/204150664/join?invite_code=QNCUYPRG&inviter_id=583562
-  - title: spotify
-    text: Playlist
-    url: https://open.spotify.com/user/126045799/playlist/1KnnWPmEOm3PiQ93mpAQuF
-  - title: envelope-open-o
-    text: RSVP
-    url: https://goo.gl/forms/PDVQXXai2lVgKkqW2
-  - title: gift
-    text: Registry
-    url: https://www.zola.com/registry/chugly
