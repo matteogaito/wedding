@@ -19,7 +19,7 @@ Se vuoi puoi quindi utilizzare l'iban qui sotto :
 <p align="center">
 
 <b> IT39Q0347501605CC0011188408 </b> <br>
-<b> Intestato a Matteo Gaito e Marta Cioni </b> <br>
+intestato a <b>Matteo Gaito</b> e <b>Marta Cioni</b> <br>
 
 </p>
 
