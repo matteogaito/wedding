@@ -15,7 +15,7 @@ The description of this service
 ```
 
 ## Demo
-View this jekyll theme fork in action [here](http://matteo.gaito.net/wedding/)
+View this jekyll theme fork in action [here](https://matteo.gaito.net/wedding/)
 
 ===
 
